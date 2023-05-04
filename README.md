@@ -20,7 +20,8 @@ find in the [Core Deliverables](#Core-Deliverables) section.
 ## Setup
 
 1. Run `npm install` in your terminal.
-2. Run `npm run server`. This will run your backend on port `6001`.
+2. Run `npm run server`. This will run your backend on port `6001`. 
+Or use json-server --watch db.json --port 6001
 3. In a new terminal, run `npm start`.
 
 Make sure to open [http://localhost:6001/listings](http://localhost:6001/listings)
